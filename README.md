@@ -4,6 +4,8 @@ AstroboyVR is a mini-game for mobile devices using Google Cardboard. This game i
 
 The purpose of this project is for learning virtual reality technologies on mobile devices. Therefore, it is totally free and open source.
 
+![Astroboy VR](https://i.ibb.co/Rg3svSx/376356f6933f9021863b142c26943073.png)
+
 ## What's include
 
 - Scenes to test the game on PC.
