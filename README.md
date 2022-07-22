@@ -20,7 +20,7 @@ The current version of Unity is 2021.3.6f1. Also, to download the project you mu
 
 - Star our GitHub repo ⭐
 - Create pull requests, submit bugs, suggest new features or documentation updates 🔧
-- Follow me on Twitter
+- Follow me on [Twitter](https://twitter.com/artemismcg)
 
 ## License
 
